@@ -1,0 +1,66 @@
+.title {
+  color: blue;
+  text-align: center;
+  font-size: 60px;
+}
+
+.square {
+  width: 300px;
+  height: 300px;
+  border: 10px solid blue;
+}
+
+.nombre {
+  color: orange;
+  font-size: 45px;
+       position: absolute;
+  top: 520px;
+  left: 650px;
+  font-family:Cooper Black ;
+}
+
+.subtitle {
+  text-align: center;
+  font-size: 25px;
+  border: 3px solid yellow;
+}
+
+.safety-kit {
+  border: 2px solid #FF00FF;
+}
+
+.imagen1 {
+   position: absolute;
+  top: 180px; 
+  left: 380px;
+    width: 250px; 
+  height: auto; 
+}
+ 
+.imagen2 {
+  position: absolute;
+  top: 480px;
+  left: 380px;
+  width: 250px;
+  height: auto; 
+}
+
+.imagen3 {
+  position: absolute;
+  top: 840px;
+  left: 380px;
+  width: 250px;
+  height: auto; 
+}
+ 
+.link-button {
+   position: absolute;
+   
+  left: 100px;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: white;
+  text-decoration: none;
+}
+
